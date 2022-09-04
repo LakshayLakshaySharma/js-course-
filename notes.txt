@@ -1,0 +1,15 @@
+JAVASCRIPT COURSE 
+
+CHAPTER 1 
+
+INTRODUCTION TO PROGRAMMING
+Programming is a way to talk/communicate with computers, just like humans use Hindi, English, and Japanese language to communicate with each other, we use computer programming languages to communicate with computers some programming languages are Javascript, python, c, etc.., 
+Programming is a set of constituting a program, some precise code/instruction that instructs the computer what to do.
+
+ECMAScript
+ECMAScript is a standard of javascript, 
+In the late 90s when the programmers were adding new changes to the javascript, then to douge the confusion ECMAScript was introduced as a standard for the javascript. So that all the programmers work on the same page/language, all the changes that occur in the ECMAScript work for all the programmers/servers. 
+You can use javascript and ECMAScript interchangeably in every situation.
+
+How to execute Javascript
+The easiest way to execute the javascript is in the browser, just inspect the browser and start writing javascript, another way to run javascript is to use runtime-like nodeJs and run javascript outside the browser. And another way to execute the javascript is in the HTML tag by using the <script> tag.and your HTML and javascript run at the very same time. javascript make web application more interactive.
